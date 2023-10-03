@@ -1,2 +1,2 @@
-# barba1
-Site de aprendizagem de programação.
+# barba
+Pagina comercial para aprendizagem.
